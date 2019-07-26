@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MengLongModel.iml" filepath="$PROJECT_DIR$/MengLongModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ml_common/ml_common.iml" filepath="$PROJECT_DIR$/ml_common/ml_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ml_http/ml_http.iml" filepath="$PROJECT_DIR$/ml_http/ml_http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ml_json/ml_json.iml" filepath="$PROJECT_DIR$/ml_json/ml_json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ml_update/ml_update.iml" filepath="$PROJECT_DIR$/ml_update/ml_update.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ml_videoplayer/ml_videoplayer.iml" filepath="$PROJECT_DIR$/ml_videoplayer/ml_videoplayer.iml" />
+    </modules>
+  </component>
+</project>
